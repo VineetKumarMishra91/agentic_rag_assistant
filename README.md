@@ -257,7 +257,3 @@ Building this surfaced a genuinely useful set of real-world integration issues, 
 - [ ] Evaluation set for tuning the relevance score threshold empirically
 
 ---
-
-## License
-
-MIT
