@@ -1,0 +1,13 @@
+reqfastapi
+uvicorn
+streamlit
+langchain
+langchain-google-genai
+langchain-community
+chromadb
+pymongo
+python-dotenv
+ddgs
+pydantic
+langchain-classic
+google-genai
